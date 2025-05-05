@@ -11,6 +11,7 @@ This project is intended to show my skills as a web developer
 - TypeScript
 - Vite-Rolldown for bundling
 - TailwindCSS for styling
+- Motion for moving effects
 
 **Backend:**
 
